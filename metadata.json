@@ -1,0 +1,6 @@
+{
+  "name": "SmartVideocall",
+  "description": "SmartVideocall with live speech-to-text captions, in-call text messaging, multi-user authentication, and accessibility tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
